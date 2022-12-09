@@ -4,8 +4,8 @@
 ~/ fetch
 
 @@novice programming student@@
-+ he/him/his
-- live in east java, indonesia
++ he
++ live in east c++, localhost
 ! coffee drinkers, sleep expert and time traveler
 # 📖 machine learning, computer science
 ```
